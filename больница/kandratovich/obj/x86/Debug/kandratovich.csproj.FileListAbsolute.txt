@@ -1,0 +1,39 @@
+F:\curse\not mine\kandratovich\kandratovich\bin\Debug\kandratovich.exe.config
+G:\curse\not mine\kandratovich\kandratovich\bin\Debug\kandratovich.exe.config
+G:\curse\not mine\kandratovich\kandratovich\bin\Debug\db.mdb
+G:\curse\not mine\kandratovich\kandratovich\bin\Debug\kandratovich.exe
+G:\curse\not mine\kandratovich\kandratovich\bin\Debug\kandratovich.pdb
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.csprojResolveAssemblyReference.cache
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.AuthForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.ChamberForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.DoctorsForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.MainForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.Properties.Resources.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.RoomsForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.csproj.GenerateResource.Cache
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.exe
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.pdb
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.SettingsForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.InfoDoctorsForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.InfoChamberForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.InfoFreeForm.resources
+G:\curse\not mine\kandratovich\kandratovich\obj\x86\Debug\kandratovich.csproj.ResolveComReference.cache
+D:\больница\kandratovich\bin\Debug\kandratovich.exe.config
+D:\больница\kandratovich\bin\Debug\kandratovich.exe
+D:\больница\kandratovich\bin\Debug\kandratovich.pdb
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.csprojAssemblyReference.cache
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.csproj.ResolveComReference.cache
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.AuthForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.ChamberForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.DoctorsForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.InfoChamberForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.InfoDoctorsForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.InfoFreeForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.MainForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.Properties.Resources.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.RoomsForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.SettingsForm.resources
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.csproj.GenerateResource.cache
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.csproj.CoreCompileInputs.cache
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.exe
+D:\больница\kandratovich\obj\x86\Debug\kandratovich.pdb
